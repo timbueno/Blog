@@ -1,0 +1,58 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Tim Bueno",
+	"icon": "https://micro.blog/timbueno/avatar.jpg",
+	"home_page_url": "https://blog.timbueno.com/",
+	"feed_url": "https://blog.timbueno.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://timbueno.micro.blog/2023/11/14/i-planned-on.html",
+				
+				"content_html": "<p>I planned on reading 20 books this year. I’m not sure I’m going to reach this goal. I know it’s not a big deal but it bums me out to miss this goal for the first time in years. 🫤</p>\n",
+				"content_text": "I planned on reading 20 books this year. I’m not sure I’m going to reach this goal. I know it’s not a big deal but it bums me out to miss this goal for the first time in years. 🫤\n",
+				"date_published": "2023-11-14T18:43:31-05:00",
+				"url": "https://blog.timbueno.com/2023/11/14/i-planned-on.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/10/im-really-enjoying.html",
+				
+				"content_html": "<p>I’m really enjoying Puzzmo, Zach Gage and Orta Therox’s new puzzle service that’s taking on the likes of the NYT crosswords and related games. The interface is slick and I love being able to play and compete with my friends and family.</p>\n<p>How many Moms are on Puzzmo besides mine? 😂</p>\n",
+				"content_text": "I’m really enjoying Puzzmo, Zach Gage and Orta Therox’s new puzzle service that’s taking on the likes of the NYT crosswords and related games. The interface is slick and I love being able to play and compete with my friends and family.\n\nHow many Moms are on Puzzmo besides mine? 😂\n",
+				"date_published": "2023-11-10T17:21:11-05:00",
+				"url": "https://blog.timbueno.com/2023/11/10/im-really-enjoying.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/09/i-have-next.html",
+				
+				"content_html": "<p>I have next to zero interest in the little AI pin that Humane is putting out. I fail to see its benefits over the devices we already have strapped to our wrists or in our pockets. I welcome the competition but it’s an uphill battle for sure. Who is the target market for this? Will I ever see one in the wild?</p>\n",
+				"content_text": "I have next to zero interest in the little AI pin that Humane is putting out. I fail to see its benefits over the devices we already have strapped to our wrists or in our pockets. I welcome the competition but it’s an uphill battle for sure. Who is the target market for this? Will I ever see one in the wild?\n",
+				"date_published": "2023-11-09T19:38:22-05:00",
+				"url": "https://blog.timbueno.com/2023/11/09/i-have-next.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/08/i-bought-an.html",
+				
+				"content_html": "<p>I bought an M2 Max MBP earlier this year. I was initially bummed that the M3 Max seemed like a significant leap forward but got over it quickly as even the M2 Max is overkill for my use case.</p>\n<p>Today, I learned that the new MBPs charge at 140W over USB-C and I’m back to being a bit salty. 😅</p>\n",
+				"content_text": "I bought an M2 Max MBP earlier this year. I was initially bummed that the M3 Max seemed like a significant leap forward but got over it quickly as even the M2 Max is overkill for my use case.\n\nToday, I learned that the new MBPs charge at 140W over USB-C and I’m back to being a bit salty. 😅\n",
+				"date_published": "2023-11-08T20:52:25-05:00",
+				"url": "https://blog.timbueno.com/2023/11/08/i-bought-an.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/06/my-app-defaults.html",
+				"title": "My App Defaults",
+				"content_html": "<p>Recently, folks have been sharing their default apps in a bunch of different categories. (I’m told the podcast <a href=\"https://hemisphericviews.com/\">Hemispheric Views</a> started this. I plan on listening soon.)</p>\n<p>I’m a sucker for learning about other people’s workflows and seeing how I can make better use of my time, so this was right up my alley.</p>\n<p>In recent years I have drastically simplified the amount of third party apps I use. I felt like I was on a hamster wheel of finding and using the latest mail client, RSS reader, to-do list, etc.</p>\n<p>I still keep my ear to the ground about the hot new productivity app but I have to be really sure it’s sticking around before I swap away from the default Apple option. Apple’s apps don’t always have the latest flashy features but I generally expect them to be around for the next five years.</p>\n<p>Without further adieu, here are my default apps:</p>\n<p>📨 Mail Client</p>\n<ul>\n<li>Apple Mail</li>\n</ul>\n<p>📮 Mail Server</p>\n<ul>\n<li>GSuite (Is it still called this? I’m considering switching to FastMail but haven’t pulled the trigger yet.)</li>\n</ul>\n<p>📝 Notes</p>\n<ul>\n<li>Apple Notes</li>\n</ul>\n<p>✅ To-Do</p>\n<ul>\n<li>Apple Reminders</li>\n</ul>\n<p>📷 iPhone Photo Shooting</p>\n<ul>\n<li>Apple Camera</li>\n</ul>\n<p>🟦 Photo Management</p>\n<ul>\n<li>iCloud Photos / Apple Photos</li>\n</ul>\n<p>📆 Calendar</p>\n<ul>\n<li>Fantastical</li>\n</ul>\n<p>📁 Cloud File Storage</p>\n<ul>\n<li>iCloud Drive</li>\n</ul>\n<p>📖 RSS</p>\n<ul>\n<li>N/A (I used Feedbin after the death of Google Reader but I no longer use RSS much at all anymore.)</li>\n</ul>\n<p>🙍🏻‍♂️ Contacts</p>\n<ul>\n<li>Apple Contacts</li>\n</ul>\n<p>🌐 Browser</p>\n<ul>\n<li>Safari / Firefox / Chrome in that order.</li>\n</ul>\n<p>💬 Chat</p>\n<ul>\n<li>Apple Messages and one Slack</li>\n</ul>\n<p>🔖 Bookmarks</p>\n<ul>\n<li>N/A (I usually save links in Apple Reminders or Apple Notes, depending on the context.)</li>\n</ul>\n<p>📑 Read It Later</p>\n<ul>\n<li><a href=\"https://deadpan.io/ephemera\">Ephemera</a> (This one is my app. It’s simple and unique. Check it out!)</li>\n</ul>\n<p>📜 Word Processing</p>\n<ul>\n<li>Apple Notes / TextEdit / Pages</li>\n</ul>\n<p>📈 Spreadsheets</p>\n<ul>\n<li>Numbers (I would use Excel in a heartbeat if I had any services spreadsheeting to do.)</li>\n</ul>\n<p>📊 Presentations</p>\n<ul>\n<li>N/A</li>\n</ul>\n<p>🛒 Shopping Lists</p>\n<ul>\n<li>Apple Reminders</li>\n</ul>\n<p>🍴 Meal Planning</p>\n<ul>\n<li>Mela</li>\n</ul>\n<p>💰 Budgeting and Personal Finance</p>\n<ul>\n<li>Copilot (I’m not convinced this is the app for me. It’s pretty but the Fidelity integration does not work. I’m fielding suggestions. Let me know!)</li>\n</ul>\n<p>📰 News</p>\n<ul>\n<li>Apple News</li>\n</ul>\n<p>🎵 Music</p>\n<ul>\n<li>Apple Music</li>\n</ul>\n<p>🎤 Podcasts</p>\n<ul>\n<li>Overcast</li>\n</ul>\n<p>🔐 Password Management</p>\n<ul>\n<li>1Password (Thinking about switching to the native keychain implementation, but I’ve got my family on the 1Password family plan and it sounds like a pain in the butt for me to switch.)</li>\n</ul>\n",
+				"content_text": "Recently, folks have been sharing their default apps in a bunch of different categories. (I’m told the podcast [Hemispheric Views](https://hemisphericviews.com/) started this. I plan on listening soon.)\n\nI’m a sucker for learning about other people’s workflows and seeing how I can make better use of my time, so this was right up my alley.\n\nIn recent years I have drastically simplified the amount of third party apps I use. I felt like I was on a hamster wheel of finding and using the latest mail client, RSS reader, to-do list, etc. \n\nI still keep my ear to the ground about the hot new productivity app but I have to be really sure it’s sticking around before I swap away from the default Apple option. Apple’s apps don’t always have the latest flashy features but I generally expect them to be around for the next five years.\n\nWithout further adieu, here are my default apps:\n\n📨 Mail Client\n* Apple Mail\n  \n📮 Mail Server\n* GSuite (Is it still called this? I’m considering switching to FastMail but haven’t pulled the trigger yet.)\n \n📝 Notes\n* Apple Notes\n\n✅ To-Do\n* Apple Reminders\n \n📷 iPhone Photo Shooting\n* Apple Camera\n \n🟦 Photo Management\n* iCloud Photos / Apple Photos\n\n📆 Calendar\n* Fantastical\n \n📁 Cloud File Storage\n* iCloud Drive\n \n📖 RSS\n* N/A (I used Feedbin after the death of Google Reader but I no longer use RSS much at all anymore.)\n \n🙍🏻‍♂️ Contacts\n* Apple Contacts\n \n🌐 Browser\n* Safari / Firefox / Chrome in that order.\n\n💬 Chat\n* Apple Messages and one Slack\n \n🔖 Bookmarks\n* N/A (I usually save links in Apple Reminders or Apple Notes, depending on the context.)\n \n📑 Read It Later\n* [Ephemera](https://deadpan.io/ephemera) (This one is my app. It’s simple and unique. Check it out!)\n \n📜 Word Processing\n* Apple Notes / TextEdit / Pages\n \n📈 Spreadsheets\n* Numbers (I would use Excel in a heartbeat if I had any services spreadsheeting to do.)\n \n📊 Presentations\n* N/A\n \n🛒 Shopping Lists\n* Apple Reminders\n \n🍴 Meal Planning\n* Mela\n \n💰 Budgeting and Personal Finance\n* Copilot (I’m not convinced this is the app for me. It’s pretty but the Fidelity integration does not work. I’m fielding suggestions. Let me know!)\n \n📰 News\n* Apple News\n \n🎵 Music\n* Apple Music\n \n🎤 Podcasts\n* Overcast\n \n🔐 Password Management\n* 1Password (Thinking about switching to the native keychain implementation, but I’ve got my family on the 1Password family plan and it sounds like a pain in the butt for me to switch.)\n",
+				"date_published": "2023-11-06T20:04:11-05:00",
+				"url": "https://blog.timbueno.com/2023/11/06/my-app-defaults.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/06/hello-i-am.html",
+				
+				"content_html": "<p>Hello!</p>\n<p>I am going to try posting a bit here. I have always struggled to keep a blogging routine. My plan is to treat it a lot more causally than I have in the past.</p>\n<p>Let the fun (and posting) begin!</p>\n",
+				"content_text": "Hello!\n\nI am going to try posting a bit here. I have always struggled to keep a blogging routine. My plan is to treat it a lot more causally than I have in the past. \n\nLet the fun (and posting) begin!\n",
+				"date_published": "2023-11-06T19:03:02-05:00",
+				"url": "https://blog.timbueno.com/2023/11/06/hello-i-am.html"
+			}
+	]
+}

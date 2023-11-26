@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://timbueno.micro.blog/2023/11/26/ios-notification-center.html",
+				"title": "iOS Notification Center Bug",
+				"content_html": "<p>When I started this blog, my intention was to resist the urge to use it as an outlet for complaining. The tech commentator world is full enough of that already and I don’t need another space to vent.</p>\n<p>BUT. I’ve got a bone to pick with one specific iOS bug that’s bothered me for years and yet I’ve never seen anyone else mention it:</p>\n<p>When Notification Center presents itself, notifications are briefly shown with square corners before re-rendering with rounded corners.</p>\n<p>This issue has happened daily for over a year now and through multiple major iOS updates.</p>\n<p>Has anyone else experienced this with the same frequency as me? What’s your pet bug that kills you inside?</p>\n<p>Someone send help. 😅</p>\n",
+				"content_text": "When I started this blog, my intention was to resist the urge to use it as an outlet for complaining. The tech commentator world is full enough of that already and I don’t need another space to vent. \n\nBUT. I’ve got a bone to pick with one specific iOS bug that’s bothered me for years and yet I’ve never seen anyone else mention it:\n\nWhen Notification Center presents itself, notifications are briefly shown with square corners before re-rendering with rounded corners. \n\nThis issue has happened daily for over a year now and through multiple major iOS updates.\n\nHas anyone else experienced this with the same frequency as me? What’s your pet bug that kills you inside?\n\nSomeone send help. 😅\n",
+				"date_published": "2023-11-26T15:25:49-05:00",
+				"url": "https://blog.timbueno.com/2023/11/26/ios-notification-center.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/18/scavengers-reign-on.html",
+				
+				"content_html": "<p>Scavengers Reign on Max is an amazing piece of Sci-Fi. Do not miss this show. I’m so happy I started watching this and cannot wait to finish it.</p>\n",
+				"content_text": "Scavengers Reign on Max is an amazing piece of Sci-Fi. Do not miss this show. I’m so happy I started watching this and cannot wait to finish it. \n",
+				"date_published": "2023-11-18T20:18:03-05:00",
+				"url": "https://blog.timbueno.com/2023/11/18/scavengers-reign-on.html"
+			},
+			{
+				"id": "http://timbueno.micro.blog/2023/11/16/im-excited-for.html",
+				
+				"content_html": "<p>I’m excited for Apple to update messages to included the RCS spec. However, I fully expect them to implement some minimal functionality that keeps iMessage the superior experience.</p>\n<p>I don’t think the green bubble stigma is going away anytime soon.</p>\n",
+				"content_text": "I’m excited for Apple to update messages to included the RCS spec. However, I fully expect them to implement some minimal functionality that keeps iMessage the superior experience.\n\nI don’t think the green bubble stigma is going away anytime soon.\n",
+				"date_published": "2023-11-16T13:51:56-05:00",
+				"url": "https://blog.timbueno.com/2023/11/16/im-excited-for.html"
+			},
+			{
 				"id": "http://timbueno.micro.blog/2023/11/14/i-planned-on.html",
 				
 				"content_html": "<p>I planned on reading 20 books this year. I’m not sure I’m going to reach this goal. I know it’s not a big deal but it bums me out to miss this goal for the first time in years. 🫤</p>\n",
